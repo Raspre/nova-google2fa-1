@@ -1,5 +1,5 @@
 {
-    "name": "Raspre/nova-google2fa1",
+    "name": "raspre/nova-google2fa1",
     "description": "This package provides Google2FA to Laravel Nova.",
     "keywords": [
         "laravel",
