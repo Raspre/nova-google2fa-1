@@ -14,6 +14,8 @@ return [
          */
         'user'    => 'App\User',
 
+        'user_foreign_key' => 'user_id',
+
         /**
          * Change this if you need a custom connector
          */

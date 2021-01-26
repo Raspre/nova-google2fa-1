@@ -1,5 +1,5 @@
 {
-    "name": "383project/nova-google2fa",
+    "name": "geniusee/nova-mfa",
     "description": "This package provides Google2FA to Laravel Nova.",
     "keywords": [
         "laravel",
